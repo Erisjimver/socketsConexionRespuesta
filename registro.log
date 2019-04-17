@@ -1,0 +1,66 @@
+Tue Dec 05 10:54:30 COT 2017: Inicio servicios
+Tue Dec 05 10:54:30 COT 2017: Escucho el puerto 7000
+Tue Dec 05 10:58:46 COT 2017: Inicio servicios
+Tue Dec 05 10:58:46 COT 2017: Escucho el puerto 7000
+Tue Dec 05 10:58:50 COT 2017: Sirvo al cliente 0 con ip /192.168.19.9
+Tue Dec 05 10:59:27 COT 2017: Inicio servicios
+Tue Dec 05 10:59:27 COT 2017: Escucho el puerto 7000
+Tue Dec 05 10:59:30 COT 2017: Sirvo al cliente 0 con ip /192.168.19.9
+Tue Dec 05 11:26:28 COT 2017: Inicio servicios
+Tue Dec 05 11:26:28 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:26:48 COT 2017: Sirvo al cliente 0 con ip /192.168.19.10
+Tue Dec 05 11:30:23 COT 2017: Sirvo al cliente 1 con ip /192.168.19.10
+Tue Dec 05 11:31:28 COT 2017: Inicio servicios
+Tue Dec 05 11:31:28 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:31:34 COT 2017: Sirvo al cliente 0 con ip /192.168.19.10
+Tue Dec 05 11:31:34 COT 2017: Sirvo al cliente PC8-LAB1
+Tue Dec 05 11:32:28 COT 2017: Inicio servicios
+Tue Dec 05 11:32:28 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:32:33 COT 2017: Sirvo al cliente 0 con ip /192.168.19.10
+Tue Dec 05 11:32:33 COT 2017: Sirvo al cliente PC8-LAB1
+Tue Dec 05 11:33:21 COT 2017: Inicio servicios
+Tue Dec 05 11:33:22 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:33:27 COT 2017: Sirvo al cliente 0 con ip /192.168.19.9
+Tue Dec 05 11:33:27 COT 2017: Sirvo al cliente PC8-LAB1
+Tue Dec 05 11:34:32 COT 2017: Inicio servicios
+Tue Dec 05 11:34:32 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:34:37 COT 2017: Sirvo al cliente 0 con ip /192.168.19.9
+Tue Dec 05 11:34:37 COT 2017: Sirvo al cliente PC8-LAB1 Con ip: /192.168.19.9
+Tue Dec 05 11:36:21 COT 2017: Inicio servicios
+Tue Dec 05 11:36:21 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:36:29 COT 2017: Sirvo al cliente 0 con ip /192.168.19.10
+Tue Dec 05 11:36:29 COT 2017: Sirvo al cliente PC8-LAB1 Con ip: PC8-LAB1/192.168.19.10
+Tue Dec 05 11:42:33 COT 2017: Inicio servicios
+Tue Dec 05 11:42:33 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:42:38 COT 2017: Sirvo al cliente 0 con ip /192.168.19.10
+Tue Dec 05 11:42:38 COT 2017: Sirvo al cliente PC8-LAB1 Con ip: PC8-LAB1/192.168.19.10
+Tue Dec 05 11:42:38 COT 2017: Conexion Exitosa al servidor Israel 
+Tue Dec 05 11:43:31 COT 2017: Inicio servicios
+Tue Dec 05 11:43:31 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:43:35 COT 2017: Sirvo al cliente 0 con ip /192.168.19.10
+Tue Dec 05 11:43:35 COT 2017: Sirvo al cliente PC8-LAB1 Con ip: PC8-LAB1/192.168.19.10
+Tue Dec 05 11:43:35 COT 2017: Conexion Exitosa al servidor Israel 
+Tue Dec 05 11:46:29 COT 2017: Inicio servicios
+Tue Dec 05 11:46:29 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:46:34 COT 2017: Sirvo al cliente 0 con ip /192.168.19.10
+Tue Dec 05 11:46:34 COT 2017: Sirvo al cliente PC8-LAB1 Con ip: PC8-LAB1/192.168.19.10
+Tue Dec 05 11:46:34 COT 2017: Conexion Exitosa al servidor Israel 
+Tue Dec 05 11:47:27 COT 2017: Inicio servicios
+Tue Dec 05 11:47:27 COT 2017: Escucho el puerto 7000
+Tue Dec 05 11:47:32 COT 2017: Sirvo al cliente 0 con ip /192.168.19.10
+Tue Dec 05 11:47:32 COT 2017: Sirvo al cliente PC8-LAB1 Con ip: PC8-LAB1/192.168.19.10
+Tue Dec 05 11:47:32 COT 2017: Conexion Exitosa al servidor Israel 
+Fri Jan 19 22:30:59 COT 2018: Inicio servicios
+Fri Jan 19 22:30:59 COT 2018: Escucho el puerto 7000
+Fri Jan 19 22:32:04 COT 2018: Inicio servicios
+Fri Jan 19 22:32:04 COT 2018: Escucho el puerto 7000
+Fri Jan 19 22:32:21 COT 2018: Sirvo al cliente 0 con ip /192.168.1.4
+Fri Jan 19 22:32:21 COT 2018: Sirvo al cliente DESKTOP-EMI0OO5 Con ip: DESKTOP-EMI0OO5/192.168.1.4
+Fri Jan 19 22:32:21 COT 2018: Conexion Exitosa al servidor Israel 
+Wed Apr 17 17:06:10 COT 2019: Inicio servicios
+Wed Apr 17 17:06:10 COT 2019: Escucho el puerto 7000
+Wed Apr 17 17:07:26 COT 2019: Inicio servicios
+Wed Apr 17 17:07:26 COT 2019: Escucho el puerto 7000
+Wed Apr 17 17:07:31 COT 2019: Sirvo al cliente 0 con ip /192.168.101.45
+Wed Apr 17 17:07:31 COT 2019: Sirvo al cliente DESKTOP-QSBQV32.domain.name Con ip: DESKTOP-QSBQV32.domain.name/192.168.101.45
+Wed Apr 17 17:07:31 COT 2019: Conexion Exitosa al servidor Israel 
